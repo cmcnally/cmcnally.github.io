@@ -6,6 +6,6 @@ body_classes: page-contact
 
 ## Contact Info
 
-- **Email:** <a href="mailto:example@example.com">example@example.com</a>
-- **Phone:** +61 0417 123 XXX
-- **Address:** Clem Jones Promenade, South Brisbane QLD 4101
+- **LinkedIn:** <a href="https://www.linkedin.com/in/catharinemcnally/">LinkedIn Profile</a>
+- **Twitter:** <a href="https://www.twitter.com/cmcnally)">@cmcnally</a>
+
